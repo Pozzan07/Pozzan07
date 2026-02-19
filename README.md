@@ -1,10 +1,10 @@
-# Olá, eu sou o [SEU NOME]! 👋
+# Olá, eu sou o Gabriel! 👋
 
 ### 🎓 Estudante de Tecnologia
 Sou apaixonado por resolver problemas através do código e estou constantemente expandindo meus conhecimentos em desenvolvimento web e automação com Python.
 
 - 🚀 Atualmente focado em melhorar minhas habilidades em: **Python & Desenvolvimento Web**.
-- 📚 Estudando: **[Nome do seu curso ou faculdade]**.
+- 📚 Estudando: **Sistemas de Informação - Unifebe**.
 - 💡 Gosto de automatizar tarefas chatas e criar páginas modernas.
 
 ---
