@@ -33,5 +33,5 @@ Aqui você pode ver as linguagens que mais utilizo nos meus projetos:
 
 ---
 <div align="center">
-  <sub>Feito com ❤️ por [Seu Nome]</sub>
+  <sub>Feito com ❤️ por Gabriel Pozzan da Silva</sub>
 </div>
