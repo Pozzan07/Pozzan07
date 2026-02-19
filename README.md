@@ -28,7 +28,9 @@ Aqui você pode ver as linguagens que mais utilizo nos meus projetos:
 
 ### 📫 Vamos Conversar?
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-pozzan-da-silva-bb48993a8)
+### 📫 Contato
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielpozzan131207@gmail.com)
+**E-mail:** `gabrielpozzan131207@gmail.com` (Clique no badge ou copie este endereço)
 
 ---
 <div align="center">
